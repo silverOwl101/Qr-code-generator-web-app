@@ -1,4 +1,27 @@
-# Nuxt Minimal Starter
+# QR Code Generator (Nuxt Web Application)
+
+A simple and modern **QR Code Generator web application** built with **Nuxt**.  
+This project demonstrates frontend development using Nuxt, clean project setup, and static deployment readiness.
+
+---
+
+## Overview
+
+This application allows users to generate QR codes from text or URLs directly in the browser.  
+It is designed as a **frontend-focused project**, suitable for portfolio and learning purposes.
+
+---
+
+## Tech Stack
+
+- **Nuxt** (Vue-based framework)
+- **Vue 3**
+- **Tailwind CSS**
+- **pnpm** (recommended package manager)
+
+---
+
+## Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
@@ -73,3 +96,10 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+---
+## Deployment
+This application is configured for static deployment and is suitable for platforms such as GitHub Pages. For deployment details, refer to the official Nuxt guide:
+https://nuxt.com/docs/getting-started/deployment
+## Live Demo:
+https://silverowl101.github.io/qr-code-generator-web-app/ 
